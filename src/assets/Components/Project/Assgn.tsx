@@ -23,7 +23,7 @@ const Assgn = () => {
       {/* this is another inline styling inside a div */}
       <div
         style={{
-          // backgroundImage: url(${Bgimage}),
+          backgroundImage: "url (${Bgimage})",
           backgroundRepeat: "no-repeat",
           backgroundSize: "cover",
           height: "60vh",
