@@ -4,3 +4,22 @@
   font-weight: 900;
   font-family: Verdana, Geneva, Tahoma, sans-serif;
 }
+.bg-img h2 {
+  background-image: url("../../About.png");
+  background-position: center;
+  background-size: cover;
+  background-repeat: no-repeat;
+  height: 50vh;
+  width: 30vw;
+  border-radius: 5rem 15rem 30rem;
+  align-self: center;
+  text-align: center;
+  padding-top: 200px;
+}
+.background_two {
+  background-image: url("../../vite.svg");
+  background-position: center;
+  background-size: cover;
+  background-repeat: no-repeat;
+  height: 50vh;
+}
